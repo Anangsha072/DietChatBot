@@ -26,4 +26,4 @@ DietChatBot/
 - **Frontend**: React, Vite, Tailwind CSS, Clerk (Google OAuth)  
 - **Backend**: Node.js, Express, MongoDB, Google Gemini AI
 ## Deployment
-To view the live demo application of this chatbot click-
+To view the live demo application of this chatbot click- https://diet-chat-bot.vercel.app/
