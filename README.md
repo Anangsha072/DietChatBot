@@ -17,6 +17,7 @@
 
 ## Project Structure
 DietChatBot/
+
 <img width="651" height="54" alt="image" src="https://github.com/user-attachments/assets/cfcb0339-bcc1-4752-9118-bbe22c553683" />
 
 
