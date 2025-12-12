@@ -17,8 +17,8 @@
 
 ## Project Structure
 DietChatBot/
-├── Client/   → React + Vite frontend (UI & chat interface)
-└── server/   → Node.js + Express backend (API, AI integration, FAQ database)
+<img width="651" height="54" alt="image" src="https://github.com/user-attachments/assets/cfcb0339-bcc1-4752-9118-bbe22c553683" />
+
 
 
 ## Technology Stack
